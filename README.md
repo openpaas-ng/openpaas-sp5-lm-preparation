@@ -22,6 +22,22 @@ Movie subtitles are also good source for spoken language.
 | CFPP2000: COllections de COrpus Oraux Numériques | Université Paris 3 Sarbonne nouvelle  | Creative Commons,Freely available for non-commercial use  | 49 H  | Unknown  | Interviews |
 | ESLO | Laboratoire Ligérien de Linguistique de l'université d'Orléans en partenariat avec le CNRS et le Ministère de la Culture et la Région Centre | Creative Commons| 800 H / around 5 Million of words | Unknown | calls, interview, visit, meeting, diner |
 | Movie Subtitles | https://www.sous-titres.eu/ | Free for use | A lot | Plenty | Movie subtitles |
+| CLAPI | ICAR http://ircom.huma-num.fr/site/description_projet.php?projet=CLAPI | Free for use | 400 hours | 1000 | social interactions |
+| Accueil UBS | https://www.ortolang.fr/market/corpora/sldr000890/v1 | Creative Commons CC-BY-SA | 10000 mots | Plenty | dialogues |
+| LibriVox | https://librivox.org/ | Public domain | 10000 mots | 8,897 | Acoustical liberation of books in the public domain |
+
+
+#### Other free corpora exist, but they are textual or not conversational
+- DEFT (DÉfi Fouille de Textes): https://deft.limsi.fr/
+- CoMeRe: https://repository.ortolang.fr/api/content/comere/v3.2/comere.html,&nbsp;https://www.ortolang.fr/market/corpora/comere
+- ubuntu-fr-cmc (French corpus of computer-mediated communication) http://www.lina.univ-nantes.fr/?-ODISAE-.html
+- Corpus journalistique issu de l'Est Républicain https://www.ortolang.fr/market/corpora/est_republicain
+- Projet OFROM http://www11.unine.ch/index.php?page=telechargement
+- Projet Wortschatz Université de Leipzig / Allemagne http://wortschatz.uni-leipzig.de/ws_fra/,&nbsp;http://corpora2.informatik.uni-leipzig.de/download.htmlhttps://repository.ortolang.fr/api/content/comere/v3.2/comere.htmlhttps://www.ortolang.fr/market/corpora/comere
+- Athena e-texts http://athena.unige.ch/athena/admin/ath_txt.html
+- Corpus de journal Radio RFI : https://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-fran%C3%A7ais-facile. Transcription + Audio
+- Liste de corpus Parlé et écrit : https://apps.atilf.fr/homepages/apotheloz/corpus/
+
 
 ## Download corpora!
 Links to download the corpora are in the following table.
@@ -75,9 +91,9 @@ We used Python 3.5.2. If you are using an older version of Python you may experi
 # Authors
 Original Author and Development Lead
 
-- Abdelwahab HEBA (aheba@linagora.com)
-- Sonia BADENE (soniabadene@gmail.com)
+- Sonia BADENE (soniabadene@linagora.com)
 - Tom JORQUERA (tjorquera@linagora.com)
+- Abdelwahab HEBA (aheba@linagora.com)
 
 # Development
 Want to contribute? Great! Share your work with us in the following link:
